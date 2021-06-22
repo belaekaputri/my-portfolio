@@ -64,7 +64,6 @@ p {
 
 @media screen and (max-width: 600px) {
   .container {
-    
     width: 50%;
     height:50% ;
     background-color: #f9c5d1;
@@ -100,3 +99,6 @@ p {
     color: white;
   }
 }
+
+
+
