@@ -3,6 +3,7 @@ const contact=document.querySelector('#contact');
 const aboutContent=document.querySelector('#about-content');
 const isicontact=document.querySelector('#contact-content');
 about.addEventListener('click',()=>{
+    //ketika li atau menu atau menu about diklik  jalankan winbox 
     const aboutBox=new WinBox({
         //objek dari library winbox
         title:'About Me',
