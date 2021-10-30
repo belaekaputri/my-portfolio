@@ -64,6 +64,16 @@ span.cursor {
 .hidden {
   display: none;
 }
+.wb-body #contact-content ul li a {
+  color: black;
+}
+.wb-body #contact-content ul li a:hover {
+  color: salmon;
+}
+.wb-body #contact-content li {
+  list-style-type: none;
+  padding: 9px;
+}
 .wb-body {
   background-color: #fff;
   padding: 20px;
@@ -86,7 +96,7 @@ p {
     border-radius: 10px;
   }
   .container ul li,
-  h4 {
+  .container h4 {
     font-size: 12px;
     padding: 3px;
     color: #111;
